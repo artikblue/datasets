@@ -10,6 +10,6 @@ I will use this repository for publishing interesting datasets I personally gath
 | Shodan scan of DPRK(north korea) public ip net ranges | 04-northkorea_networks_2020.json      | json/mongodb |                      |
 | Shodan scan of Ucrania industrial control systems 2020| 05-ucrania_ics_ips_2020.zip           | json/mongodb |                      |
 | Shodan scan of all connected devices in Iran 01/2020  | 06-iran_internet_connected_devices.csv| csv          |                      |
-
+| Meetup.com data related to paris collected JAN 2020   | 07-meetup-paris.json                  | json/mongodb | analyses/meetupparis1|
 
 

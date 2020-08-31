@@ -1,0 +1,9 @@
+sudo docker run 
+-e CITY=Paris : CITY (for db purposes)
+-e COUNTRY=france : COUNTRY (used for gender guessing)
+-e REQUEST_INTERVAL=0 : TIME (SLEEP) INTERVAL BETWEEN REQUESTING DIFFERENT EVENTS IN SECONDS
+-e URL=https://www.meetup.com/fr-FR/cities/fr/paris/ : MEETUP CITY LISTING
+-e COUNTRYCODE=fr-FR : COUNTRY CODE
+-e MONGO_URL=mongodb://172.17.0.1:27017 : MONGODB SYSTEM URL/URI, to dump data to
+-e DB=heartbeat : MONGODB COLLECTION NAME
+meetup1 : BOT NAME

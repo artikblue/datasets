@@ -1,0 +1,1 @@
+sudo docker run -e REQUEST_INTERVAL=0 -e CITY=Paris -e MONGO_URL=mongodb://172.17.0.1:27017 -e DB=heartbeat -e URL=https://www.eventbrite.com/d/france--paris/all-events/ eventbrite1

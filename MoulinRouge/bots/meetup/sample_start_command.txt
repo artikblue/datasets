@@ -1,0 +1,1 @@
+sudo docker run -e CITY=Paris -e COUNTRY=france -e REQUEST_INTERVAL=0 -e URL=https://www.meetup.com/fr-FR/cities/fr/paris/ -e COUNTRYCODE=fr-FR -e MONGO_URL=mongodb://172.17.0.1:27017 -e DB=heartbeat meetup1

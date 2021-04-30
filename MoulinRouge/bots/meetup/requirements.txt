@@ -13,7 +13,7 @@ pyOpenSSL==19.1.0
 queuelib==1.5.0
 requests==2.22.0
 Scrapy==1.8.0
-urllib3==1.25.7
+urllib3==1.25.8
 w3lib==1.21.0
 zope.interface==4.7.1
 geopy==2.0.0
